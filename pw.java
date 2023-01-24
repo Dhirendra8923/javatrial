@@ -10,5 +10,7 @@ public class Main
 	    int sum = num_1 + num_2;
 	    
 		System.out.println("Sum of two number is: "  + sum );
-	}
+
+	System.out.println("Sum of two number is: "  + sum );
+}
 }
